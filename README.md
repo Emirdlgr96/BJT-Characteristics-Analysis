@@ -19,7 +19,6 @@ To observe the characteristics, I constructed two main circuits:Input Characteri
 
 
 ## Results & Analysis
-![BJT Çıkış Karakteristik Grafiği] (Circuit_1_Graph.png)
 
 1. Input Characteristics
 As seen in the graph below, the BJT behaves like a diode at the input side. The current starts to flow significantly after the threshold voltage (approx. 0.7V for Silicon).
@@ -28,6 +27,7 @@ As seen in the graph below, the BJT behaves like a diode at the input side. The 
 4. Cut-off Region: No current flows (Switch OFF).
 5. Active Region: Current is amplified. This is where Amplifiers work.
 6. Saturation Region: Maximum current flows (Switch ON).
+7. ![The Graph ](Circuit_1_Graph.png)
 
 ## Biomedical Application Insight
 
