@@ -14,7 +14,7 @@ Types: NPN and PNP. (In this experiment, I used BC237 NPN Transistor).
 ## Circuit Setup & Methodology
 
 To observe the characteristics, I constructed two main circuits:Input Characteristics: Observing the relationship between Base Current (Ib) and Base-Emitter Voltage (Ibe).Output Characteristics: Observing the relationship between Collector Current ($I_C$) and Collector-Emitter Voltage (Ice).
-<img width="1095" height="758" alt="image" src="https://github.com/user-attachments/assets/b483ca31-389c-40db-b5f3-8b84e207e9bf" />
+
 
 ## Results & Analysis
 ![BJT Çıkış Karakteristik Grafiği] (Circuit_1_Graph.png)
