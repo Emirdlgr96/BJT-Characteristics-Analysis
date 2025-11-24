@@ -14,6 +14,8 @@ Types: NPN and PNP. (In this experiment, I used BC237 NPN Transistor).
 ## Circuit Setup & Methodology
 
 To observe the characteristics, I constructed two main circuits:Input Characteristics: Observing the relationship between Base Current (Ib) and Base-Emitter Voltage (Ibe).Output Characteristics: Observing the relationship between Collector Current ($I_C$) and Collector-Emitter Voltage (Ice).
+![The Cicruit ](Circuit_1.png)
+
 
 
 ## Results & Analysis
