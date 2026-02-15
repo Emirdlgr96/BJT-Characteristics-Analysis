@@ -1,6 +1,6 @@
 # BJT-Characteristics-Analysis
 
-## Bipolar Junction Transistor (BJT) Characteristics Analysis ⚡
+## Bipolar Junction Transistor (BJT) Characteristics Analysis 
 ## Project Overview
 
 In this project, I analyzed the working principles and characteristic curves of a BJT (Bipolar Junction Transistor). The main goal was to understand how a BJT behaves as a switch and as an amplifier, which is crucial for biomedical instrumentation (like ECG amplifiers).
